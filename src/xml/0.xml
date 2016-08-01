@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<stickers>
+  <sticker>
+    <id>1461003378</id>
+    <text>aaa</text>
+    <position>
+      <x>145</x>
+      <y>109</y>
+      <z>1461003383</z>
+    </position>
+  </sticker>
+  <sticker>
+    <id>1461003380</id>
+    <text>bbb</text>
+    <position>
+      <x>149</x>
+      <y>84</y>
+      <z>1461003382</z>
+    </position>
+  </sticker>
+  <sticker>
+    <id>1461003396</id>
+    <text>asdf</text>
+    <position>
+      <x>0</x>
+      <y>0</y>
+      <z>1461003397</z>
+    </position>
+  </sticker>
+</stickers>
